@@ -29,13 +29,13 @@ section {
 
 article {
     width: 26%;
-    height: 60vh;
+    height: 40vh;
     float: left;
 }
 
 .try article {
     float: right;
-    height: 60vh;
+    height: 40vh;
     width: 31%;
 
 }
