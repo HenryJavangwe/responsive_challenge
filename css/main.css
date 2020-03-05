@@ -1,0 +1,46 @@
+/* SEMANTIC TAG STYLES (COLLECTIVE) */
+header,
+nav,
+section,
+article,
+footer {
+    background-color: rgb(25, 115, 231);
+    margin: 2%;
+    border-radius: 20px;
+    height: 40vh;
+    text-align: center;
+
+}
+
+
+/* HEADER STYLES */
+
+/* BODY STYLES FROM HERE GOING DOWNWARDS */
+
+nav {
+    float: left;
+    width: 26%;
+} 
+
+section {
+    float: right;
+    width: 66%; 
+}
+
+article {
+    width: 26%;
+    height: 60vh;
+    float: left;
+}
+
+.try article {
+    float: right;
+    height: 60vh;
+    width: 31%;
+
+}
+
+/* FOOTER STYLES FROM HERE GOING DOWN */
+footer {
+    clear: both;
+}
